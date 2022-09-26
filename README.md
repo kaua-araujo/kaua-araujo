@@ -1,19 +1,8 @@
-### Hi there 👋
+<h4>Emersson Cardim Mota</h4>
 
-<!--
-**kaua-araujo/kaua-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-## Ferramentas e Tecnologias
-<i class="devicon-html5-plain-wordmark colored" width="40" height="40"/></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"//>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"//>
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-KauaAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/kau%C3%A3-ara%C3%BAjo-79b185233/)] 
+[![Gmail Badge](https://img.shields.io/badge/-emerssonmota123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerssonmota123@gmail.com)](mailto:emerssonmota123@gmail.com)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaua-araujo&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kaua-Araujo&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
