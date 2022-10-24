@@ -7,4 +7,5 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-araujo&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaua-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-araujo&layout=compact&langs_count=7&theme=dracula"/>
