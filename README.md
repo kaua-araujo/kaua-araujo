@@ -1,4 +1,4 @@
-##Sobre mim
+## Sobre mim
   <p>Olá, me chamo Kauã Araújo Santos, tenho 18 anos e no momento sou Estágiario Back-End na linguagem PHP, utilizando principalmente o Framework Laravel</p>
 
 ## Skills
