@@ -23,4 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-araujo&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaua-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 ![Snake animation](https://github.com/kaua-araujo/kaua-araujo/blob/output/github-contribution-grid-snake.svg)
+
+![octocat-1672174152935](https://user-images.githubusercontent.com/102002921/209721433-188214e6-d9c2-4ea1-91b6-24b85da56941.png)
