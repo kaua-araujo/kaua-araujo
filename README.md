@@ -25,6 +25,6 @@
 </div>
 
 ![Snake animation](https://github.com/kaua-araujo/kaua-araujo/blob/output/github-contribution-grid-snake.svg)
-<div>
+
 ![octocat-1672174152935](https://user-images.githubusercontent.com/102002921/209721433-188214e6-d9c2-4ea1-91b6-24b85da56941.png)
-</div>
+
