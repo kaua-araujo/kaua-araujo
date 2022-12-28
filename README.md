@@ -24,5 +24,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaua-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/102002921/209721433-188214e6-d9c2-4ea1-91b6-24b85da56941.png"  width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/102002921/209721433-188214e6-d9c2-4ea1-91b6-24b85da56941.png"  width="100" height="100"/>
 
