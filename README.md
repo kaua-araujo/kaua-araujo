@@ -1,7 +1,9 @@
 ## Sobre mim
+<div width="50%">
  <p align="left">
     Olá, me chamo Kauã Araújo Santos, tenho 18 anos e no momento sou Estágiario Back-End na linguagem PHP, utilizando principalmente o Framework Laravel.
- </p> 
+ </p>
+</div>
 <p align="right">
   <img src="https://user-images.githubusercontent.com/102002921/209721433-188214e6-d9c2-4ea1-91b6-24b85da56941.png"  width="300" height="300"/>
 </p>
