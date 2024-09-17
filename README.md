@@ -9,12 +9,8 @@
  
 </p>
 
-## Work
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQE8LbMmrzjiPQ/company-logo_200_200/0/1605186217014?e=2159024400&v=beta&t=4eWosP3QwtJA9mBUGHYeNkjpZdZ73JWKgz2HriZ53iE"/>](https://ibosstecnologias.com/)
-
 **BackEnd Developer** \
-[**Iboss**](https://ibosstecnologias.com/) • `Full-time` \
-Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `PHP`, `LARAVEL`, `SQL` \
+Languages & Technologies: `Node.Js`, `JavaScript`, `PHP`, `LARAVEL`, `SQL` \
 <br/>
 
 ## Skills
@@ -38,6 +34,14 @@ Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `PHP`, `LARAVEL`, `SQL` \
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+         		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40"/>
+          
+          
 </div>
 
 ## Contatos:
