@@ -3,7 +3,6 @@
 ## Helo!!
 <p align="left"  width="300" height="300"/>
  🎓  Intern in Systems Development <br>
- 👾  Workint at Iboss Tecnologias <br>
 	</p>
 	<p align="right" style="width=20 height=20 margin-top=10"/>
  
